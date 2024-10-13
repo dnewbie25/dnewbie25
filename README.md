@@ -18,5 +18,5 @@ Highly skilled analyst with a strong foundation in Python, Excel, some SQL, and 
 
 ### Contact Me
 
-![LinkedIn](https://www.linkedin.com/in/daniel-montoya-rojas/)
-![Email: dsmontoyaro@unal.edu.co](dsmontoyaro@unal.edu.co)
+[LinkedIn](https://www.linkedin.com/in/daniel-montoya-rojas/)
+[Email: dsmontoyaro@unal.edu.co](dsmontoyaro@unal.edu.co)
